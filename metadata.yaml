@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1507
     wikipedia: http://en.wikipedia.org/wiki/Jules_Renard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30226#Coquecigrues
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2009-10-10'
 gutenberg_type: Text
